@@ -1,9 +1,5 @@
 # pwcheck - Regex Password Strength Checker
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-28%20passing-brightgreen.svg)](tests)
-[![No dependencies](https://img.shields.io/badge/dependencies-0-informational.svg)](pyproject.toml)
 
 A fast, **dependency-free** password strength checker written in Python. It uses
 compiled regular expressions to find weak patterns, scores a password out of
